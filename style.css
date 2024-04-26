@@ -1,0 +1,28 @@
+body{
+    background: green;
+    color: white;
+    text-align: center;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    margin-bottom: 200px;
+
+}
+
+.lasagna , .momo{
+    margin-bottom: 60px;
+    
+}
+
+.lasagna , .momo , .pasta{
+    font-size: 20px;
+    font-style: oblique;
+    list-style-position: inside;
+   
+    
+}
+
+a{
+    color: white;
+}
